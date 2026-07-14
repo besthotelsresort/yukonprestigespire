@@ -1,0 +1,26 @@
+{
+  "name": "Yukon Prestige Spire",
+  "short_name": "Yukon",
+  "description": "Yukon Prestige Spire: Sophistication, served sunrise to nightfall",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5ede1",
+  "theme_color": "#e89b6c",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
